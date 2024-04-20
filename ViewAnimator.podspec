@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '9.0'
+  s.visionos.deployment_target = '1.0'
   s.source_files = 'Sources/**/*'
 
 end
